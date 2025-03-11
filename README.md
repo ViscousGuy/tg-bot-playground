@@ -1,6 +1,6 @@
 # Playground for tg Bot 🤖
 
-This is a Telegram Bot built using **Node.js** and **Telegraf.js** that provides:
+This is a Telegram Bot built using **Node.js** and **Telegraf** that provides:
 
 - Random Quotes
 - Random Jokes
