@@ -1,4 +1,4 @@
-# Algorithm Bot 🤖
+# Playground for tg Bot 🤖
 
 This is a Telegram Bot built using **Node.js** and **Telegraf.js** that provides:
 
@@ -39,6 +39,7 @@ In the root directory, create a file called **`.env`** and add the following:
 
 ```
 BOT_TOKEN=YOUR_TELEGRAM_BOT_TOKEN
+API_URL=https://zenquotes.io/api/today
 ```
 
 > 💡 **Note:** You can get your Telegram Bot Token from [BotFather](https://t.me/BotFather).
